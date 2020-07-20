@@ -17,15 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JAE-S/appbeware.git"
+    "url": "git+https://github.com/JAE-S/AppBewareOfficial"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JAE-S/appbeware/issues"
+    "url": "https://github.com/JAE-S/AppBewareOfficial/issues"
   },
-  "homepage": "https://github.com/JAE-S/appbeware#readme",
+  "homepage": "https://github.com/JAE-S/AppBewareOfficial#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "bcryptjs": "^2.4.3",

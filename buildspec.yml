@@ -12,6 +12,7 @@ phases:
       #install dependencies
       - echo Installing dependencies...
       - npm run install:client
+      - npm install
   build:
     commands:
       #build
